@@ -1,0 +1,14 @@
+{
+  "auth_username": "your_username",
+  "auth_token": "your_auth_token",
+  "user_id": "your_base64_user_id",
+  "user_key": "your_user_key",
+  "phpsessid": "your_phpsessid_cookie",
+  "csrf_token": "your_csrf_cookie",
+  "device_id": "your_android_device_id",
+  "phone_model": "Infinix X6837",
+  "phone_android_version": "13",
+  "phone_uuid": "your_phone_uuid",
+  "app_version_name": "26.10.09",
+  "app_version_code": "261009"
+}
